@@ -247,7 +247,7 @@ client.on("message", message => {
 👑3mute  『كـود الميوت』
 👑3unmute  『كـود فك الميوت』
 ● ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ● 
-🎲『القرعة』🎲
+🎲『giveaway』🎲
 🎲3roll 1   『[giveaway من 1 الى 25』
 🎲3roll 2   『giveaway من 1 الى 50』
 🎲3roll 3   『giveaway من 1 الى 75』
