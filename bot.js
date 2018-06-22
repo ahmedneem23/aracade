@@ -656,14 +656,14 @@ client.on("message", message => {
  client.on('guildMemberAdd', member => {
   const channel = member.guild.channels.find('name', 'welcome');
   if (!channel) return;
-  channel.send(`***بكل حب واحترام وشوق نستقبلك ونتمنى لك قضآء أجمل اللحظات ولآوقات معنا حياك الله***, ${member}`);
+  channel.send(`***السيرفرده لمحبي عطيه القامد***, ${member}`);
   
 });
 
 client.on('message', message => {
   if (true) {
 if (message.content === '3support') {
-      message.author.send(' |https://discord.gg/QUf4W9k| لـ أي استفسار').catch(e => console.log(e.stack));
+      message.author.send(' |https://discord.gg/XK3tsqs| لـ أي استفسار').catch(e => console.log(e.stack));
 
     }
    } 
