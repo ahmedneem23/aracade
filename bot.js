@@ -427,7 +427,7 @@ message.channel.sendEmbed(cat);
 //memes area
 
   var prefix = "3";
-var memes = ["https://imgur.com/dfxHr5J","https://imgur.com/ovJs6zK","https://ibb.co/e9KmH8","https:/ibb.co/hp7j4o"]
+var memes = ["https://imgur.com/a/rMZZKzd","https://imgur.com/ovJs6zK","https://ibb.co/e9KmH8","https:/ibb.co/hp7j4o"]
     client.on('message', message => {
         var args = message.content.split(" ").slice(1);
     if(message.content.startsWith(prefix + 'memes')) {
